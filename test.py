@@ -10,7 +10,6 @@
 @Description: Use for test other Problem file.
 """
 
-from Problem_7 import min, max
+from Problem_13 import *
 
-print min([30, 10, 45, "abc", 99, 66, -1])
-print max([1, -1, 5, "abcdef", "ab", "abcde"])
+print lensort(["abc", "ab", "abcd", "a"])
