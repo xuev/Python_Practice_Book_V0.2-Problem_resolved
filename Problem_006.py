@@ -3,7 +3,7 @@
 
 """
 @Author: xuev
-@File: Problem_6.py
+@File: Problem_006.py
 @Version: 
 @License: MIT Licence 
 @Create Time: 2016/3/17 22:36
